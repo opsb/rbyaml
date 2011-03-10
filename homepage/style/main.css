@@ -1,0 +1,39 @@
+p,h1,h2,h3,h4,h5,h6,h7 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #230047;
+	line-height: normal;
+}
+
+h1 {
+	font-size: 12px;
+	font-weight: bold;
+	color: black;
+}
+
+.rightBorder {
+	border-right-style: dashed;
+	border-right-width: 1px;
+	border-right-color: #230047;
+}
+a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #230047;
+	line-height: normal;
+	font-weight: normal;
+	text-decoration: underline;
+}
+a:hover {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #230047;
+	line-height: normal;
+	font-weight: normal;
+	text-decoration: underline;
+}
+.mainSpace {
+	background-color: #F8F8F8;
+	border: 1px solid;
+}

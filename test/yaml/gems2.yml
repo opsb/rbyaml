@@ -1,0 +1,113 @@
+--- !ruby/object:Gem::Cache
+gems:
+  jabber4r-0.7.0: !ruby/object:Gem::Specification 
+    rubygems_version: 0.8.11
+    specification_version: -1
+    name: jabber4r
+    version: !ruby/object:Gem::Version 
+      version: 0.7.0
+    date: 2004-03-13 08:39:42.381129 -05:00
+    summary: Jabber4r is a pure-Ruby Jabber client library
+    require_paths: 
+    - lib
+    email: rich@infoether.com
+    homepage: http://jabber4r.rubyforge.org
+    rubyforge_project: jabber4r
+    description: 
+    autorequire: jabber4r/jabber4r
+    default_executable: 
+    bindir: 
+    has_rdoc: true
+    required_ruby_version: 
+    platform: 
+    signing_key: 
+    cert_chain: []
+    
+    authors: 
+    files: []
+    
+    test_files: []
+    
+    rdoc_options: []
+    
+    extra_rdoc_files: []
+    
+    executables: 
+    extensions: 
+    requirements: 
+    - Jabber server
+    dependencies: 
+    
+  cgikit-1.1.0: !ruby/object:Gem::Specification 
+    rubygems_version: 0.8.11
+    specification_version: -1
+    name: cgikit
+    version: !ruby/object:Gem::Version 
+      version: 1.1.0
+    date: 2004-03-13 09:24:59.162981 -05:00
+    summary: "CGIKit is a componented-oriented web application framework like Apple Computers WebObjects.  This framework services Model-View-Controller architecture programming by components based on a HTML file, a definition file and a Ruby source.  "
+    require_paths: 
+    - lib
+    email: info@spice-of-life.net
+    homepage: http://www.spice-of-life.net/download/cgikit/
+    rubyforge_project: 
+    description: 
+    autorequire: cgikit
+    default_executable: 
+    bindir: 
+    has_rdoc: 
+    required_ruby_version: 
+    platform: 
+    signing_key: 
+    cert_chain: []
+    
+    authors: 
+    files: []
+    
+    test_files: []
+    
+    rdoc_options: []
+    
+    extra_rdoc_files: []
+    
+    executables: 
+    extensions: 
+    requirements: 
+    dependencies: 
+    
+  progressbar-0.0.3: !ruby/object:Gem::Specification 
+    rubygems_version: 0.8.11
+    specification_version: -1
+    name: progressbar
+    version: !ruby/object:Gem::Version 
+      version: 0.0.3
+    date: 2004-03-13 08:56:48.508436 -05:00
+    summary: Ruby/ProgressBar is a text progress bar library for Ruby.  It can indicate progress with percentage, a progress bar, and estimated remaining time.
+    require_paths: 
+    - lib
+    email: satoru@namazu.org
+    homepage: http://namazu.org/~satoru/ruby-progressbar/
+    rubyforge_project: 
+    description: 
+    autorequire: progressbar
+    default_executable: 
+    bindir: 
+    has_rdoc: 
+    required_ruby_version: 
+    platform: 
+    signing_key: 
+    cert_chain: []
+    
+    authors: 
+    files: []
+    
+    test_files: []
+    
+    rdoc_options: []
+    
+    extra_rdoc_files: []
+    
+    executables: 
+    extensions: 
+    requirements: 
+    dependencies: 
